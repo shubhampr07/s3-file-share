@@ -226,10 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Bootstrap CSS framework
 - Neon cloud icon design for favicon
 
-## Support
-
-For support, please open an issue in the GitHub repository or contact [email here](ghumare64@gmail.com)
 
 ---
 
-Made with ❤️ by Rohit Ghumare
+Made with ❤️
