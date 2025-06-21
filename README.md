@@ -76,7 +76,7 @@ The Cloud Storage Manager supports multiple cloud storage providers, giving you 
 
 1. Clone the repository: 
 ```bash
-git clone https://github.com/rohitg00/s3-file-share-for-free.git
+git clone https://github.com/shubhampr07/s3-file-share.git
 cd s3-file-share-for-free
 ```
 2. Running Application using poetry:
